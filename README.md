@@ -1,3 +1,2 @@
-# demo-repo
-
+# SoftUni Courses
 This is a demo-repo for Software technologies May 2023 Course @SoftUni
